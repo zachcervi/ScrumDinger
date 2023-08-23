@@ -19,6 +19,7 @@
 		5EF360A12A96A32C000C00EF /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EF360A02A96A32C000C00EF /* TrailingIconLabelStyle.swift */; };
 		5EF360A32A96A485000C00EF /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EF360A22A96A485000C00EF /* ScrumsView.swift */; };
 		5EF360A52A96B5B1000C00EF /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EF360A42A96B5B1000C00EF /* DetailView.swift */; };
+		5EF360A72A96BE43000C00EF /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EF360A62A96BE43000C00EF /* DetailEditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		5EF360A02A96A32C000C00EF /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		5EF360A22A96A485000C00EF /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		5EF360A42A96B5B1000C00EF /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		5EF360A62A96BE43000C00EF /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				5EF3609E2A96A08F000C00EF /* CardView.swift */,
 				5EF360A22A96A485000C00EF /* ScrumsView.swift */,
 				5EF360A42A96B5B1000C00EF /* DetailView.swift */,
+				5EF360A62A96BE43000C00EF /* DetailEditView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -185,6 +188,7 @@
 				5EF360A12A96A32C000C00EF /* TrailingIconLabelStyle.swift in Sources */,
 				5EF3609A2A968D7D000C00EF /* Theme.swift in Sources */,
 				5EF360862A9688BF000C00EF /* ScrumdingerApp.swift in Sources */,
+				5EF360A72A96BE43000C00EF /* DetailEditView.swift in Sources */,
 				5EF3609C2A968E1B000C00EF /* DailyScrum.swift in Sources */,
 				5EF360922A9688C0000C00EF /* Scrumdinger.xcdatamodeld in Sources */,
 			);
